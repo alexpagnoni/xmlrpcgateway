@@ -1,0 +1,10 @@
+<?xml version='1.0'?>
+<structure>
+
+	<catalog name="xmlrpcgateway"		file="xmlrpcgateway.catalog"/>
+
+	<cgi name="xmlrpcgateway"	file="xmlrpcgateway.php"/>
+
+        <rootpage name="xmlrpcgateway"	file="xmlrpcgateway.php"	icon="xmlrpcgateway.gif"	catalog="xmlrpcgateway"/>
+
+</structure>

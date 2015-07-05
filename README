@@ -1,0 +1,53 @@
+General information
+-------------------
+
+Xml Rpc gateway acts as a gateway for Xml Rpc calls between networks.
+It may be useful for calling web services that resided inside a LAN
+from the Internet. Multiple gateways are definable for the various
+machines in the LAN, so you are no limited to a single host.
+
+
+
+License
+-------
+See the file named LICENSE.
+
+
+
+Requirements
+------------
+
+Serverside:
+	A working Ampoliros II platform installation.
+
+Clientside:
+	a web browser with HTML 4.0 and CSS support.
+
+
+
+Installation
+------------
+
+See the file named INSTALL.
+
+
+
+Additional Information
+----------------------
+
+Ampoliros official home page:
+	http://www.ampoliros.com
+
+To submit a bug report:
+	send an email to bugs@ampoliros.com
+
+To submit a support request:
+	send an email to support@ampoliros.com
+
+
+
+Disclaimer
+----------
+
+There is no warranty, expressed or implied, associated with this product.
+Use at your own risk.

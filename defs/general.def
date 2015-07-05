@@ -1,0 +1,17 @@
+# Module short name
+MODULEIDNAME       = xmlrpcgateway
+
+# Module version number
+MODULEVERSION      = 1.0.1
+
+# Module release date
+MODULEDATE         = 2002/03/21
+
+# Module long description
+MODULEDESCRIPTION  = XMLRPC calls gateway
+
+# Module dependencies
+MODULEDEPENDENCIES =
+
+# Module suggestions
+MODULESUGGESTIONS  =

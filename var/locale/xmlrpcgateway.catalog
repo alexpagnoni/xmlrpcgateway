@@ -1,0 +1,10 @@
+xmlrpcgateway		= Remote procedures gateway
+title			= Remote procedures gateway
+hostdesc		= Host
+hostnote		= Remote procedures hostname
+portdesc		= Port
+portnote		= Remote procedures port, tipically "80"
+cgidesc			= Cgi
+cginote			= Remote procedures cgi, like "/ampcgi/xmlrpc.php"
+submit			= Apply
+reset			= Restore
